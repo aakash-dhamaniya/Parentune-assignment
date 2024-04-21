@@ -1,0 +1,14 @@
+.header {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 179px 11px;
+}
+@media (max-width: 768px) {
+  .header {
+    padding: 14px 19.42px 14px;
+    justify-content: flex-start;
+    gap: 0.5rem;
+  }
+}
