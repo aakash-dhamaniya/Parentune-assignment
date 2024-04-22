@@ -1,0 +1,43 @@
+.carousel-container {
+  display: flex;
+  border-radius: 10px;
+  align-items: center;
+  background-color: white;
+  width: 98%;
+  height: 132.96px;
+  gap: 21.29px;
+}
+
+.text p {
+    width: 277px;
+    height: 54px;
+    top: 152.09px;
+    left: 779.29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 26.59px;
+letter-spacing: -0.03em;
+text-align: left;
+
+}
+.icon img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+title p {
+  width: 90px;
+  height: 27px;
+  top: 117.64px;
+  left: 779.29px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26.59px;
+  text-align: left;
+}
