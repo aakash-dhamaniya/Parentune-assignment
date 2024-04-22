@@ -1,0 +1,30 @@
+.slider-container {
+  width: 1371px;
+  height: 134.44px;
+  left: 178px;
+  padding: 0px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 33px auto;
+  background-color: white;
+}
+.carousel-container {
+  display: flex;
+  align-items: center;
+
+  width: 449.12px;
+  height: 132.96px;
+  gap: 21.29px;
+}
+.text :nth-child(2) {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26.59px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+.icon img {
+  width: 100px;
+  height: 100px;
+}

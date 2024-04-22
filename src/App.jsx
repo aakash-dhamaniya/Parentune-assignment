@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Header from "./layout/Header";
 import "./App.css";
+import Carousel from "./layout/components/Carousel";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -8,6 +9,7 @@ function App() {
   return (
     <div>
       <Header />
+      <Carousel />
     </div>
   );
 }
