@@ -10,6 +10,10 @@ function App() {
     <div>
       <Header />
       <Carousel />
+      <div className="top-100">
+        <h2>Top 100 Cryptocurrencies by Market Cap</h2>
+      </div>
+      <div></div>
     </div>
   );
 }
